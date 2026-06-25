@@ -9,6 +9,11 @@ Local Streamlit app for testing URLs with the included `lighturlnet.onnx` model.
 - `lighturlnet.onnx` - model artifact used by the app.
 - `vocab.json` and `config.json` - tokenizer vocabulary and model settings.
 
+## Model and Dataset
+
+- Model Registry: <https://huggingface.co/tarundangeengineer/LightURLNet>
+- Dataset: <https://huggingface.co/datasets/tarundangeengineer/LightURLNet_DataSet>
+
 ## Run
 
 ```powershell
